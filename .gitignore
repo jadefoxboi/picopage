@@ -1,3 +1,10 @@
+# IDEs
+.vscode
+.vs
+
+# Binaries
+bin/*
+
 # Prerequisites
 *.d
 
